@@ -1,5 +1,4 @@
 #include "Wisdom.h"
-#include "Riddle.h"
 #include "Proverb.h"
 #include "Aphorism.h"
 #include "Container.h"
@@ -8,14 +7,10 @@
 int CountingMarks(string a);
 // Вычисление 
 int Punctuation(Wisdom* w) {
-	Riddle* r = nullptr;
 	Proverb* p = nullptr;
 	Aphorism* a = nullptr;
 
-	if ((r = dynamic_cast<Riddle*>(w)) != nullptr) {
-		return CountingMarks(r->riddle);
-	}
-	else if ((p = dynamic_cast<Proverb*>(w)) != nullptr) {
+	if ((p = dynamic_cast<Proverb*>(w)) != nullptr) {
 		return CountingMarks(p->text);
 	}
 	else if ((a = dynamic_cast<Aphorism*>(w)) != nullptr) {
