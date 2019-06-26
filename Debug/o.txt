@@ -1,0 +1,36 @@
+Filled container. 
+=====
+Container contents 4 elements.
+=====
+key 0: 
+-----
+Proverb. Country: Австралия; ЫВпыви-_ыафпф_фкцйк
+Aphorism. Author: Тургенев; ЙАФЫА,_фыафаы_мывм
+Aphorism. Author: Чехов; ЙАФЫА_?фыафаы_мывм
+key 1: 
+-----
+Proverb. Country: Сербия; ыыыы_"пкп"_фвпц
+Aphorism. Author: Толстой; ЙАФЫА_фыафаы_мывм
+Proverb. Country: Бельгия; ЫВпыви_ы:афпф_фкцйк
+key 2: 
+-----
+Riddle. Riddle: вы_ывыфпфып_;ывацфа Answer: ответ
+Aphorism. Author: Пушкин; ЫВпыви_ыафпф_фкцйк
+Proverb. Country: Австрия; ыыыы_пкп._фвпц
+key 3: 
+-----
+Proverb. Country: Румыния; ыыыы!_пкп_фвпц
+Aphorism. Author: Булгаков; ЙАФЫА_фыаф...аы_мывм
+
+Results. 
+0: Number of signs = 1
+0: Number of signs = 0
+0: Number of signs = 1
+1: Number of signs = 0
+1: Number of signs = 0
+1: Number of signs = 1
+2: Number of signs = 1
+2: Number of signs = 0
+2: Number of signs = 1
+3: Number of signs = 1
+3: Number of signs = 3
